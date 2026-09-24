@@ -1,0 +1,2 @@
+/// Chained declarative animations.
+library;

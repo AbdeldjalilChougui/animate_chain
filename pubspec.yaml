@@ -1,0 +1,25 @@
+name: animate_chain
+description: Chained, declarative widget animations (fade, slide, scale, shimmer, stagger and more) with leak-free lifecycle, reduced-motion support and adapters.
+version: 0.1.0
+homepage: https://abdeldjalilchougui.biz/
+repository: https://github.com/AbeldjalilChougui/animate_chain
+issue_tracker: https://github.com/AbeldjalilChougui/animate_chain/issues
+topics:
+  - animation
+  - effects
+  - widget
+  - ui
+  - transitions
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.24.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_lints: ^5.0.0
+  flutter_test:
+    sdk: flutter
